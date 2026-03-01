@@ -89,8 +89,7 @@ Displays complete list of matched items including:
 Enables transparency and monitoring of verification workflow.
 
 📷 Screenshot!
-:
-[All_item_match](https://github.com/user-attachments/assets/c441c190-f91e-4a4e-a6b2-db940e0ea7b3)
+![All_item_match](https://github.com/user-attachments/assets/35723a56-767f-49f2-9d56-0c0794b09a74)
 
 
 ---
